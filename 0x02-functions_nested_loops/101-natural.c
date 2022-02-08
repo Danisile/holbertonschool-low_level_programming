@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *main - Entry point
- *
- *Return: Always 0 (Success)
- */
+*main - Prints the sum of all multiples of 3 or 5 up to 1024
+*
+*Return: Always (Success)
+*/
 int main(void)
 {
     int i, n = 0;
