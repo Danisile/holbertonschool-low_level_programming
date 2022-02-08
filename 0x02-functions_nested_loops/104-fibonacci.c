@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- *main - check the code for Holberton School students.
- *
- *Return: Always 0.
- */
+*print_times_table - Prints a multiplication table up to param
+*@n: The number to be treated
+*
+* Return: Number matrix
+*/
 int main(void)
 {
     long int n1 = 1;
