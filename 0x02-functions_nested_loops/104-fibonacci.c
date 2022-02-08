@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
-*print_times_table - Prints a multiplication table up to param
-*@n: The number to be treated
+* main - main function
 *
-* Return: Number matrix
+* Return: nothing
 */
 int main(void)
 {
