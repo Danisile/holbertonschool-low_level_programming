@@ -1,24 +1,9 @@
-#include <stdio.h>
-
-/**
-* main - causes an infinite loop
-* Return: 0
-*/
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 int main(void)
-{
-	int i;
+int main(void)
+int largest_number(int a, int b, int c)
+void print_remaining_days(int month, int day, int year)
 
-	printf("Infinite loop incoming :(\n");
-
-	i = 0;
-
-	/*while (i < 10)*/
-	{
-		/*putchar(i);*/
-	}
-
-	printf("Infinite loop avoided! \\o/\n");
-
-	return (0);
-}
+#endif /* _MAIN_H_ */
