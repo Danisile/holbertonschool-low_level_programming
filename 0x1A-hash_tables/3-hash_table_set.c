@@ -1,6 +1,6 @@
 /*
  * File: 3-hash_table_set.c
- * Auth: Elizabeth Mashilo
+ * Auth: Danisile Jiyane
 */
 
 #include "hash_tables.h"

@@ -1,6 +1,6 @@
 /*
  * File: 2-key_index.c
- * Auth: Elizabeth Mashilo
+ * Auth: Danisile Jiyane
 */
 
 #include "hash_tables.h"
